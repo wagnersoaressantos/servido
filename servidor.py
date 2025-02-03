@@ -1,6 +1,7 @@
 import socket
 import threading
 
+
 # Configurações do servidor
 HOST = '127.0.0.1'  # Endereço IP do servidor
 PORT = 12345        # Porta do servidor
